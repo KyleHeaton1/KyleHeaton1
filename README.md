@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on such projects as Life Of Bean and more!<br>I'm studying games development level 3 at college <br>I work with Unity to create fun and interesting games<br><br>I also like frogs 
+I'm currently working on projects such as Life Of Bean and more!<br>I'm studying games development level 3 at college <br>I work with Unity to create fun and interesting games<br><br>I also like frogs 
 
 
 # 💻 Tech Stack:
