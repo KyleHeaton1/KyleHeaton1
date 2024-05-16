@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've worked on projects such as Life Of Bean, Frogzilla and more!<br>I'm studying games technology at university <br>I work with Unity to create fun and interesting games<br><br>I also like frogs 
+I've worked on projects such as Life Of Bean, Frogzilla and more!<br>I'm studying games technology (maybe art soon) at university <br>I work with Unity and Unreal to create fun and interesting games<br><br>I also like frogs 
 
 
 # 💻 Tech Stack:
